@@ -1,0 +1,26 @@
+_repo: The-Rubaiyat-of-a-Huffy-Husband_26437
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Little, Mary Wallace Bundy
+    birthdate: 1857
+    gutenberg_agent_id: '32005'
+    url: http://www.gutenberg.org/2009/agents/32005
+description: ''
+gutenberg_issued: '2008-08-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26437'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry'
+- !lcc 'PS'
+- !lcsh 'Omar Khayyam -- Parodies, imitations, etc.'
+title: The Rubaiyat of a Huffy Husband
+url: http://www.gutenberg.org/ebooks/26437
